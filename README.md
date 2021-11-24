@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **najmul.hasan10@gmail.com**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
